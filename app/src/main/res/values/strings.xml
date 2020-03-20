@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Asynctask</string>
+    <string name="clicktodownloadimage" />
+    <string name="clicktodownloadusingservice" />
+</resources>
